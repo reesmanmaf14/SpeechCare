@@ -1,0 +1,52 @@
+2026-06-14 20:09:32 - Cron executed
+2026-06-14 20:09:33 - Cron executed
+2026-06-14 20:09:34 - Cron executed
+2026-06-14 20:10:13 - Cron executed
+2026-06-14 20:12:01 - Cron executed
+2026-06-14 20:20:16 - Cron executed
+2026-06-14 20:21:19 - Cron executed
+2026-06-14 20:26:27 - Cron executed
+2026-06-14 20:29:52 - Cron executed
+2026-06-14 20:31:01 - Cron executed
+2026-06-14 20:31:37 - Cron executed
+2026-06-14 20:31:38 - Cron executed
+2026-06-14 20:31:39 - Cron executed
+2026-06-14 20:31:41 - Cron executed
+2026-06-14 20:33:00 - Cron executed
+2026-06-14 20:34:21 - Cron executed
+2026-06-14 20:49:06 - Cron executed
+2026-06-14 20:52:50 - Cron executed
+2026-06-14 21:12:59 - Cron executed
+2026-06-14 21:14:41 - Cron executed
+2026-06-14 22:28:45 - Cron executed
+2026-06-14 22:31:56 - Cron executed
+2026-06-14 23:38:19 - Cron executed
+2026-06-15 00:36:12 - Cron executed
+2026-06-15 00:36:22 - Cron executed
+2026-06-15 00:36:23 - Cron executed
+2026-06-16 00:41:08 - Reminder cron started
+2026-06-16 00:41:08 - Checking Appointment #2 (-15.69 hrs remaining)
+2026-06-16 00:41:08 - Checking Appointment #6 (326.31 hrs remaining)
+2026-06-16 00:41:08 - Checking Appointment #7 (344.81 hrs remaining)
+2026-06-16 00:41:08 - Checking Appointment #20 (10.31 hrs remaining)
+2026-06-16 00:41:14 - Parent reminder sent for Appointment #20
+2026-06-16 00:41:20 - Therapist reminder sent for Appointment #20
+2026-06-16 00:41:20 - Cron completed. Emails Sent: 2
+2026-06-16 00:46:08 - Reminder cron started
+2026-06-16 00:46:08 - Checking Appointment #2 (-15.77 hrs remaining)
+2026-06-16 00:46:08 - Checking Appointment #6 (326.23 hrs remaining)
+2026-06-16 00:46:08 - Checking Appointment #7 (344.73 hrs remaining)
+2026-06-16 00:46:08 - Checking Appointment #20 (10.23 hrs remaining)
+2026-06-16 00:46:08 - Cron completed. Emails Sent: 0
+2026-06-16 00:49:07 - Reminder cron started
+2026-06-16 00:49:07 - Checking Appointment #2 (-15.82 hrs remaining)
+2026-06-16 00:49:07 - Checking Appointment #6 (326.18 hrs remaining)
+2026-06-16 00:49:07 - Checking Appointment #7 (344.68 hrs remaining)
+2026-06-16 00:49:07 - Checking Appointment #20 (10.18 hrs remaining)
+2026-06-16 00:49:07 - Cron completed. Emails Sent: 0
+2026-06-16 16:56:08 - Reminder cron started
+2026-06-16 16:56:08 - Checking Appointment #2 (-31.94 hrs remaining)
+2026-06-16 16:56:08 - Checking Appointment #6 (310.06 hrs remaining)
+2026-06-16 16:56:08 - Checking Appointment #7 (328.56 hrs remaining)
+2026-06-16 16:56:08 - Checking Appointment #20 (-5.94 hrs remaining)
+2026-06-16 16:56:08 - Cron completed. Emails Sent: 0
