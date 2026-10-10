@@ -4,6 +4,11 @@
 
 SpeechCare is a web-based speech therapy clinic management system developed to simplify clinic operations, manage therapist availability, coordinate appointments, and monitor patient progress. The platform provides a centralized environment for therapists, parents, and administrators to manage essential therapy-related activities efficiently.
 
+![SpeechCare Home Page](screenshots/home1.png)
+
+
+![SpeechCare Home Page](screenshots/home2.png)
+
 ## ✨ Key Features
 
 - 🔐 **User Authentication** — Secure user authentication and account management.
